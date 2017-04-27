@@ -51,6 +51,7 @@ Examples:
     orders.reduce((acc, x) => acc + x, 0)
 
   Advanced example use of Reduce:
+
     // Group animals by species
     let animals = [
       {name: 'A', species: 'dog'},
